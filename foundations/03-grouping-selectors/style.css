@@ -1,14 +1,14 @@
-.click-button {
-    font-size: 28px;
-    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+.me, .no-me {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 48px;
 }
 
-.click-button.me {
+.me {
     background-color: black;
     color: white;
 }
 
-.click-button.no-me {
+.no-me {
     background-color: yellow;
     color: black;
 }
